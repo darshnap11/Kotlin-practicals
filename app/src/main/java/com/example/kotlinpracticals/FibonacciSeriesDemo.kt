@@ -1,7 +1,7 @@
 package com.example.kotlinpracticals
 
 fun main() {
-    var number = 5
+    val number = 5
     var a = 0
     var b = 1
 

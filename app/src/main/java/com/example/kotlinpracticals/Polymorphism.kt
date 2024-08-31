@@ -6,7 +6,8 @@ fun main(){
     val Circle: Shape= Circle(4.0)
     val Square: Shape= Square(4.0)
 
-    val Shapes : Array<Shape> = arrayOf(Circle(3.0), Square(4.0), Triangle(3.0,4.0))
+    val Shapes : Array<Shape> = arrayOf(Circle(3.0), Square(4.0),
+        Triangle(3.0,4.0))
     calculateAreas(Shapes)
 }
  fun calculateAreas(Shapes: Array<Shape>){

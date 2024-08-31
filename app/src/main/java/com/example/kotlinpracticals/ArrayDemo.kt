@@ -2,7 +2,7 @@ package com.example.kotlinpracticals
 
 fun main() {
 
-val array = intArrayOf(3,5,7,35,63,26)
+    val array = intArrayOf(3,5,7,35,63,26)
     val max = array.maxOrNull()
 
     println("Largest Number is: $max")
@@ -12,7 +12,6 @@ val array = intArrayOf(3,5,7,35,63,26)
         val sum = numbers.sum()
         val average = sum.toDouble() / numbers.size
 
-
-        println("The average is : $average")
+    println("The average is : $average")
     }
 

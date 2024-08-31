@@ -2,9 +2,9 @@ package com.example.kotlinpracticals
 
 fun main() {
 
-    val a = 10
-    val b = 20
-    val c = 30
+    val a = 5
+    val b = 30
+    val c = 10
 
     if(a>b && a>c) {
         println("a is the largest number")

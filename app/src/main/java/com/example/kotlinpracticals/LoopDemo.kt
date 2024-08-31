@@ -7,6 +7,6 @@ fun main() {
 
     while (c <= 'Z') {
         println("$c")
-        c++
+        ++c
     }
 }

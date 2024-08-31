@@ -16,7 +16,7 @@ fun main() {
 }
 
 //Primary Constructor
-class Add constructor(a: Int ,b:Int)
+class Add (a: Int ,b:Int)
 {
    var c = a+b;
 }

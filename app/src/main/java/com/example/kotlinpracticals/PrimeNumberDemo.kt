@@ -1,7 +1,7 @@
 package com.example.kotlinpracticals
 
 fun main() {
-    val number = 11
+    val number = 10
     var result = false
 
     for (i in 2..number / 2){
